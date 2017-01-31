@@ -18,10 +18,6 @@ public class MyRoute extends JFrame {
     }
   };
 
-  private int posX = 0;
-  private int posY = 0;
-  private int direction = 0;
-
   public void initialize() {
     this.setTitle("Foo");
     this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);

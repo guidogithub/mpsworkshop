@@ -16,7 +16,7 @@ public class QueriesGenerated {
   public static Object propertyMacro_GetPropertyValue_5898776707557736279(final PropertyMacroContext _context) {
     return SPropertyOperations.getString(_context.getNode(), MetaAdapterFactory.getProperty(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L, 0x110396ec041L, "name"));
   }
-  public static Object propertyMacro_GetPropertyValue_1901822991100791610(final PropertyMacroContext _context) {
+  public static Object propertyMacro_GetPropertyValue_6101869435801779947(final PropertyMacroContext _context) {
     return _context.getTemplateValue();
   }
   public static SNode sourceNodeQuery_6101869435801751955(final SourceSubstituteMacroNodeContext _context) {

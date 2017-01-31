@@ -338,40 +338,6 @@
         </node>
       </node>
     </node>
-    <node concept="2tJIrI" id="1IpoUGn1N1F" role="jymVt" />
-    <node concept="312cEg" id="1IpoUGn1PjD" role="jymVt">
-      <property role="34CwA1" value="false" />
-      <property role="eg7rD" value="false" />
-      <property role="TrG5h" value="posX" />
-      <property role="3TUv4t" value="false" />
-      <node concept="3Tm6S6" id="1IpoUGn1OCO" role="1B3o_S" />
-      <node concept="10Oyi0" id="1IpoUGn1Pj1" role="1tU5fm" />
-      <node concept="3cmrfG" id="1IpoUGn1R07" role="33vP2m">
-        <property role="3cmrfH" value="0" />
-      </node>
-    </node>
-    <node concept="312cEg" id="1IpoUGn1Sm3" role="jymVt">
-      <property role="34CwA1" value="false" />
-      <property role="eg7rD" value="false" />
-      <property role="TrG5h" value="posY" />
-      <property role="3TUv4t" value="false" />
-      <node concept="3Tm6S6" id="1IpoUGn1RF7" role="1B3o_S" />
-      <node concept="10Oyi0" id="1IpoUGn1Sls" role="1tU5fm" />
-      <node concept="3cmrfG" id="1IpoUGn1U6O" role="33vP2m">
-        <property role="3cmrfH" value="0" />
-      </node>
-    </node>
-    <node concept="312cEg" id="1IpoUGn1Wh8" role="jymVt">
-      <property role="34CwA1" value="false" />
-      <property role="eg7rD" value="false" />
-      <property role="TrG5h" value="direction" />
-      <property role="3TUv4t" value="false" />
-      <node concept="3Tm6S6" id="1IpoUGn1VA3" role="1B3o_S" />
-      <node concept="10Oyi0" id="1IpoUGn1Wgw" role="1tU5fm" />
-      <node concept="3cmrfG" id="1IpoUGn1XXQ" role="33vP2m">
-        <property role="3cmrfH" value="0" />
-      </node>
-    </node>
     <node concept="2tJIrI" id="1IpoUGn1Nwa" role="jymVt" />
     <node concept="3clFb_" id="1IpoUGn1bCY" role="jymVt">
       <property role="1EzhhJ" value="false" />
