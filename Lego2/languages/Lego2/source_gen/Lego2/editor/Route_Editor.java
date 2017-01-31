@@ -14,18 +14,21 @@ import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
 import jetbrains.mps.nodeEditor.EditorManager;
-import jetbrains.mps.nodeEditor.cellProviders.AbstractCellListHandler;
-import jetbrains.mps.nodeEditor.cellLayout.CellLayout_Vertical;
-import jetbrains.mps.lang.editor.cellProviders.RefNodeListHandler;
-import jetbrains.mps.smodel.action.NodeFactoryManager;
-import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
+import jetbrains.mps.lang.editor.cellProviders.SingleRoleCellProvider;
 import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
+import org.jetbrains.mps.openapi.language.SContainmentLink;
+import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
 import jetbrains.mps.openapi.editor.cells.CellActionType;
-import jetbrains.mps.nodeEditor.cellActions.CellAction_DeleteNode;
+import jetbrains.mps.editor.runtime.impl.cellActions.CellAction_DeleteSmart;
 import jetbrains.mps.openapi.editor.cells.DefaultSubstituteInfo;
 import jetbrains.mps.nodeEditor.cellMenu.OldNewCompositeSubstituteInfo;
 import jetbrains.mps.nodeEditor.cellMenu.SChildSubstituteInfo;
 import jetbrains.mps.nodeEditor.cellMenu.DefaultChildSubstituteInfo;
+import jetbrains.mps.nodeEditor.cellProviders.AbstractCellListHandler;
+import jetbrains.mps.nodeEditor.cellLayout.CellLayout_Vertical;
+import jetbrains.mps.lang.editor.cellProviders.RefNodeListHandler;
+import jetbrains.mps.smodel.action.NodeFactoryManager;
+import jetbrains.mps.nodeEditor.cellActions.CellAction_DeleteNode;
 
 public class Route_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
@@ -37,6 +40,7 @@ public class Route_Editor extends DefaultNodeEditor {
     editorCell.setBig(true);
     editorCell.addEditorCell(this.createCollection_xreqep_a0(editorContext, node));
     editorCell.addEditorCell(this.createCollection_xreqep_b0(editorContext, node));
+    editorCell.addEditorCell(this.createCollection_xreqep_c0(editorContext, node));
     return editorCell;
   }
   private EditorCell createCollection_xreqep_a0(EditorContext editorContext, SNode node) {
@@ -83,11 +87,71 @@ public class Route_Editor extends DefaultNodeEditor {
     Style style = new StyleImpl();
     style.set(StyleAttributes.SELECTABLE, 0, false);
     editorCell.getStyle().putAll(style);
-    editorCell.addEditorCell(this.createRefNodeList_xreqep_a1a(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_xreqep_a1a(editorContext, node));
     return editorCell;
   }
-  private EditorCell createRefNodeList_xreqep_a1a(EditorContext editorContext, SNode node) {
-    AbstractCellListHandler handler = new Route_Editor.CmdsListHandler_xreqep_a1a(node, "Cmds", editorContext);
+  private EditorCell createRefNode_xreqep_a1a(EditorContext editorContext, SNode node) {
+    SingleRoleCellProvider provider = new Route_Editor.BoundarySingleRoleHandler_xreqep_a1a(node, MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary"), editorContext);
+    return provider.createCell();
+  }
+  private class BoundarySingleRoleHandler_xreqep_a1a extends SingleRoleCellProvider {
+    public BoundarySingleRoleHandler_xreqep_a1a(SNode ownerNode, SContainmentLink containmentLink, EditorContext context) {
+      super(ownerNode, containmentLink, context);
+    }
+    protected EditorCell createChildCell(SNode child) {
+      myEditorContext.getCellFactory().pushCellContext();
+      myEditorContext.getCellFactory().setNodeLocation(new SNodeLocation.FromNode(child));
+      try {
+        EditorCell editorCell = super.createChildCell(child);
+        editorCell.setAction(CellActionType.DELETE, new CellAction_DeleteSmart(myOwnerNode, MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary"), child));
+        editorCell.setAction(CellActionType.BACKSPACE, new CellAction_DeleteSmart(myOwnerNode, MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary"), child));
+        installCellInfo(child, editorCell);
+        return editorCell;
+      } finally {
+        myEditorContext.getCellFactory().popCellContext();
+      }
+    }
+
+    protected boolean isCompatibilityMode() {
+      return false;
+    }
+
+    private void installCellInfo(SNode child, EditorCell editorCell) {
+      if (editorCell.getSubstituteInfo() == null || editorCell.getSubstituteInfo() instanceof DefaultSubstituteInfo) {
+        editorCell.setSubstituteInfo(new OldNewCompositeSubstituteInfo(myEditorContext, new SChildSubstituteInfo(editorCell, myOwnerNode, MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary"), child), new DefaultChildSubstituteInfo(myOwnerNode, myContainmentLink.getDeclarationNode(), myEditorContext)));
+      }
+      if (editorCell.getRole() == null) {
+        editorCell.setRole("Boundary");
+      }
+    }
+    @Override
+    protected EditorCell createEmptyCell() {
+      myEditorContext.getCellFactory().pushCellContext();
+      myEditorContext.getCellFactory().setNodeLocation(new SNodeLocation.FromParentAndLink(myOwnerNode, MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary")));
+      try {
+        EditorCell editorCell = super.createEmptyCell();
+        editorCell.setCellId("empty_Boundary");
+        installCellInfo(null, editorCell);
+        return editorCell;
+      } finally {
+        myEditorContext.getCellFactory().popCellContext();
+      }
+    }
+    protected String getNoTargetText() {
+      return "<no Boundary>";
+    }
+  }
+  private EditorCell createCollection_xreqep_c0(EditorContext editorContext, SNode node) {
+    EditorCell_Collection editorCell = EditorCell_Collection.createIndent2(editorContext, node);
+    editorCell.setCellId("Collection_xreqep_c0");
+    Style style = new StyleImpl();
+    style.set(StyleAttributes.SELECTABLE, 0, false);
+    editorCell.getStyle().putAll(style);
+    editorCell.addEditorCell(this.createRefNodeList_xreqep_a2a(editorContext, node));
+    return editorCell;
+  }
+  private EditorCell createRefNodeList_xreqep_a2a(EditorContext editorContext, SNode node) {
+    AbstractCellListHandler handler = new Route_Editor.CmdsListHandler_xreqep_a2a(node, "Cmds", editorContext);
     EditorCell_Collection editorCell = handler.createCells(editorContext, new CellLayout_Vertical(), false);
     editorCell.setCellId("refNodeList_Cmds");
     Style style = new StyleImpl();
@@ -96,8 +160,8 @@ public class Route_Editor extends DefaultNodeEditor {
     editorCell.setRole(handler.getElementRole());
     return editorCell;
   }
-  private static class CmdsListHandler_xreqep_a1a extends RefNodeListHandler {
-    public CmdsListHandler_xreqep_a1a(SNode ownerNode, String childRole, EditorContext context) {
+  private static class CmdsListHandler_xreqep_a2a extends RefNodeListHandler {
+    public CmdsListHandler_xreqep_a2a(SNode ownerNode, String childRole, EditorContext context) {
       super(ownerNode, childRole, context, false);
     }
     public SNode createNodeToInsert(EditorContext editorContext) {
@@ -120,7 +184,7 @@ public class Route_Editor extends DefaultNodeEditor {
     }
     public EditorCell createEmptyCell(EditorContext editorContext) {
       editorContext.getCellFactory().pushCellContext();
-      editorContext.getCellFactory().setNodeLocation(new SNodeLocation.FromParentAndLink(CmdsListHandler_xreqep_a1a.this.getOwner(), MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x1a64a1ef223bae70L, "Cmds")));
+      editorContext.getCellFactory().setNodeLocation(new SNodeLocation.FromParentAndLink(CmdsListHandler_xreqep_a2a.this.getOwner(), MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x1a64a1ef223bae70L, "Cmds")));
       try {
         EditorCell emptyCell = null;
         emptyCell = super.createEmptyCell(editorContext);
