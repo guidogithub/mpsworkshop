@@ -22,20 +22,25 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       switch (switchIndex) {
         case 0:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Fwd_Editor());
+            return Collections.<ConceptEditor>singletonList(new Boundary_Editor());
           }
           break;
         case 1:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Left_Editor());
+            return Collections.<ConceptEditor>singletonList(new Fwd_Editor());
           }
           break;
         case 2:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Right_Editor());
+            return Collections.<ConceptEditor>singletonList(new Left_Editor());
           }
           break;
         case 3:
+          if (true) {
+            return Collections.<ConceptEditor>singletonList(new Right_Editor());
+          }
+          break;
+        case 4:
           if (true) {
             return Collections.<ConceptEditor>singletonList(new Route_Editor());
           }
@@ -56,5 +61,5 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
     }
     return res;
   }
-  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badeaL, "Lego2.structure.Fwd"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223df524L, "Lego2.structure.Left"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bae2fL, "Lego2.structure.Right"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, "Lego2.structure.Route"));
+  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, "Lego2.structure.Boundary"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badeaL, "Lego2.structure.Fwd"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223df524L, "Lego2.structure.Left"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bae2fL, "Lego2.structure.Right"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, "Lego2.structure.Route"));
 }

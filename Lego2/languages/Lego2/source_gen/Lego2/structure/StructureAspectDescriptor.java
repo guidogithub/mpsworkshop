@@ -18,7 +18,8 @@ import jetbrains.mps.smodel.adapter.ids.MetaIdFactory;
 import jetbrains.mps.smodel.SNodePointer;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
-  private final Map<SConceptId, Integer> myIndexMap = new HashMap<SConceptId, Integer>(5);
+  private final Map<SConceptId, Integer> myIndexMap = new HashMap<SConceptId, Integer>(6);
+  /*package*/ final ConceptDescriptor myConceptBoundary = createDescriptorForBoundary();
   /*package*/ final ConceptDescriptor myConceptCmd = createDescriptorForCmd();
   /*package*/ final ConceptDescriptor myConceptFwd = createDescriptorForFwd();
   /*package*/ final ConceptDescriptor myConceptLeft = createDescriptorForLeft();
@@ -26,16 +27,17 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   /*package*/ final ConceptDescriptor myConceptRoute = createDescriptorForRoute();
 
   public StructureAspectDescriptor() {
-    myIndexMap.put(myConceptCmd.getId(), 0);
-    myIndexMap.put(myConceptFwd.getId(), 1);
-    myIndexMap.put(myConceptLeft.getId(), 2);
-    myIndexMap.put(myConceptRight.getId(), 3);
-    myIndexMap.put(myConceptRoute.getId(), 4);
+    myIndexMap.put(myConceptBoundary.getId(), 0);
+    myIndexMap.put(myConceptCmd.getId(), 1);
+    myIndexMap.put(myConceptFwd.getId(), 2);
+    myIndexMap.put(myConceptLeft.getId(), 3);
+    myIndexMap.put(myConceptRight.getId(), 4);
+    myIndexMap.put(myConceptRoute.getId(), 5);
   }
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptCmd, myConceptFwd, myConceptLeft, myConceptRight, myConceptRoute);
+    return Arrays.asList(myConceptBoundary, myConceptCmd, myConceptFwd, myConceptLeft, myConceptRight, myConceptRoute);
   }
 
   @Override
@@ -47,14 +49,16 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     }
     switch (((int) index)) {
       case 0:
-        return myConceptCmd;
+        return myConceptBoundary;
       case 1:
-        return myConceptFwd;
+        return myConceptCmd;
       case 2:
-        return myConceptLeft;
+        return myConceptFwd;
       case 3:
-        return myConceptRight;
+        return myConceptLeft;
       case 4:
+        return myConceptRight;
+      case 5:
         return myConceptRoute;
       default:
         throw new IllegalStateException();
@@ -71,6 +75,9 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     return (res == null ? -1 : res);
   }
 
+  private static ConceptDescriptor createDescriptorForBoundary() {
+    return new ConceptDescriptorBuilder("Lego2.structure.Boundary", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).propertyDescriptors(new ConceptDescriptorBuilder.Prop(0x54ae31ec3ac549c5L, "length", new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "6101869435801651653")), new ConceptDescriptorBuilder.Prop(0x54ae31ec3ac549c7L, "width", new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "6101869435801651655"))).properties("length", "width").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "6101869435801651625")).create();
+  }
   private static ConceptDescriptor createDescriptorForCmd() {
     return new ConceptDescriptorBuilder("Lego2.structure.Cmd", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badceL)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).alias("command", "").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100784078")).create();
   }
@@ -84,6 +91,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     return new ConceptDescriptorBuilder("Lego2.structure.Right", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bae2fL)).super_("Lego2.structure.Cmd").version(1).super_(MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badceL)).parents("Lego2.structure.Cmd").parentIds(MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badceL)).alias("Right", "").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100784175")).create();
   }
   private static ConceptDescriptor createDescriptorForRoute() {
-    return new ConceptDescriptorBuilder("Lego2.structure.Route", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept", "jetbrains.mps.execution.util.structure.IMainClass").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL), MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L), MetaIdFactory.conceptId(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L)).childDescriptors(new ConceptDescriptorBuilder.Link(0x1a64a1ef223bae70L, "Cmds", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badceL), true, true, false, new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100784240"))).children(new String[]{"Cmds"}, new boolean[]{true}).rootable().alias("Route", "").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100783973")).create();
+    return new ConceptDescriptorBuilder("Lego2.structure.Route", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept", "jetbrains.mps.execution.util.structure.IMainClass").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL), MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L), MetaIdFactory.conceptId(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L)).childDescriptors(new ConceptDescriptorBuilder.Link(0x54ae31ec3ac549ebL, "Boundary", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L), false, false, false, new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "6101869435801651691")), new ConceptDescriptorBuilder.Link(0x1a64a1ef223bae70L, "Cmds", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badceL), true, true, false, new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100784240"))).children(new String[]{"Boundary", "Cmds"}, new boolean[]{false, true}).rootable().alias("Route", "").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100783973")).create();
   }
 }

@@ -7,8 +7,9 @@ import jetbrains.mps.generator.template.PropertyMacroContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
 import jetbrains.mps.smodel.adapter.structure.MetaAdapterFactory;
 import org.jetbrains.mps.openapi.model.SNode;
-import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
+import jetbrains.mps.generator.template.SourceSubstituteMacroNodeContext;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
+import jetbrains.mps.generator.template.SourceSubstituteMacroNodesContext;
 
 @Generated
 public class QueriesGenerated {
@@ -17,6 +18,9 @@ public class QueriesGenerated {
   }
   public static Object propertyMacro_GetPropertyValue_1901822991100791610(final PropertyMacroContext _context) {
     return _context.getTemplateValue();
+  }
+  public static SNode sourceNodeQuery_6101869435801751955(final SourceSubstituteMacroNodeContext _context) {
+    return SLinkOperations.getTarget(_context.getNode(), MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x54ae31ec3ac549ebL, "Boundary"));
   }
   public static Iterable<SNode> sourceNodesQuery_1988730296937746002(final SourceSubstituteMacroNodesContext _context) {
     return SLinkOperations.getChildren(_context.getNode(), MetaAdapterFactory.getContainmentLink(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, 0x1a64a1ef223bae70L, "Cmds"));

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dependenciesRoot>
+  <dependency className="Lego2.editor.Boundary_Editor" file="Boundary_Editor.java">
+    <classNode dependClassName="jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider" />
+    <classNode dependClassName="jetbrains.mps.nodeEditor.EditorManager" />
+    <classNode dependClassName="jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole" />
+    <classNode dependClassName="jetbrains.mps.nodeEditor.cells.EditorCell_Collection" />
+    <classNode dependClassName="jetbrains.mps.nodeEditor.cells.EditorCell_Constant" />
+    <classNode dependClassName="jetbrains.mps.openapi.editor.EditorContext" />
+    <classNode dependClassName="jetbrains.mps.openapi.editor.cells.EditorCell" />
+    <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
+    <classNode extendsClassName="jetbrains.mps.nodeEditor.DefaultNodeEditor" />
+  </dependency>
   <dependency className="Lego2.editor.EditorAspectDescriptorImpl" file="EditorAspectDescriptorImpl.java">
+    <classNode dependClassName="Lego2.editor.Boundary_Editor" />
     <classNode dependClassName="Lego2.editor.Fwd_Editor" />
     <classNode dependClassName="Lego2.editor.Left_Editor" />
     <classNode dependClassName="Lego2.editor.Right_Editor" />

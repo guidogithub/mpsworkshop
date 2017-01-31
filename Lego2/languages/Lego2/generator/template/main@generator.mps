@@ -159,6 +159,9 @@
       </concept>
     </language>
     <language id="b401a680-8325-4110-8fd3-84331ff25bef" name="jetbrains.mps.lang.generator">
+      <concept id="1114706874351" name="jetbrains.mps.lang.generator.structure.CopySrcNodeMacro" flags="ln" index="29HgVG">
+        <child id="1168024447342" name="sourceNodeQuery" index="3NFExx" />
+      </concept>
       <concept id="1114729360583" name="jetbrains.mps.lang.generator.structure.CopySrcListMacro" flags="ln" index="2b32R4">
         <child id="1168278589236" name="sourceNodesQuery" index="2P8S$" />
       </concept>
@@ -180,6 +183,7 @@
         <reference id="1167169349424" name="applicableConcept" index="30HIoZ" />
       </concept>
       <concept id="1092059087312" name="jetbrains.mps.lang.generator.structure.TemplateDeclaration" flags="ig" index="13MO4I">
+        <reference id="1168285871518" name="applicableConcept" index="3gUMe" />
         <child id="1092060348987" name="contentNode" index="13RCb5" />
       </concept>
       <concept id="1087833241328" name="jetbrains.mps.lang.generator.structure.PropertyMacro" flags="ln" index="17Uvod">
@@ -194,10 +198,14 @@
       <concept id="1167756080639" name="jetbrains.mps.lang.generator.structure.PropertyMacro_GetPropertyValue" flags="in" index="3zFVjK" />
       <concept id="1167756221419" name="jetbrains.mps.lang.generator.structure.TemplateFunctionParameter_templatePropertyValue" flags="nn" index="3zGtF$" />
       <concept id="1167951910403" name="jetbrains.mps.lang.generator.structure.SourceSubstituteMacro_SourceNodesQuery" flags="in" index="3JmXsc" />
+      <concept id="1168024337012" name="jetbrains.mps.lang.generator.structure.SourceSubstituteMacro_SourceNodeQuery" flags="in" index="3NFfHV" />
     </language>
     <language id="7866978e-a0f0-4cc7-81bc-4d213d9375e1" name="jetbrains.mps.lang.smodel">
       <concept id="1138056022639" name="jetbrains.mps.lang.smodel.structure.SPropertyAccess" flags="nn" index="3TrcHB">
         <reference id="1138056395725" name="property" index="3TsBF5" />
+      </concept>
+      <concept id="1138056143562" name="jetbrains.mps.lang.smodel.structure.SLinkAccess" flags="nn" index="3TrEf2">
+        <reference id="1138056516764" name="link" index="3Tt5mk" />
       </concept>
       <concept id="1138056282393" name="jetbrains.mps.lang.smodel.structure.SLinkListAccess" flags="nn" index="3Tsc0h">
         <reference id="1138056546658" name="link" index="3TtcxE" />
@@ -234,6 +242,12 @@
       <ref role="30HIoZ" to="ttlr:1D$CuWyfvk$" resolve="Left" />
       <node concept="j$656" id="1D$CuWyfwAd" role="1lVwrX">
         <ref role="v9R2y" node="1D$CuWyfhHX" resolve="reduce_Left" />
+      </node>
+    </node>
+    <node concept="3aamgX" id="5iIcuKULkDt" role="3acgRq">
+      <ref role="30HIoZ" to="ttlr:5iIcuKULkAD" resolve="Boundary" />
+      <node concept="j$656" id="5iIcuKULkDD" role="1lVwrX">
+        <ref role="v9R2y" node="5iIcuKULkDB" resolve="reduce_Boundary" />
       </node>
     </node>
     <node concept="3lhOvk" id="1D$CuWyeW6I" role="3lj3bC">
@@ -278,6 +292,22 @@
                     <ref role="37wK5l" to="dxuu:~JComponent.paintComponent(java.awt.Graphics):void" resolve="paintComponent" />
                     <node concept="37vLTw" id="1IpoUGn1BRZ" role="37wK5m">
                       <ref role="3cqZAo" node="1IpoUGn1_IO" resolve="graphics" />
+                    </node>
+                  </node>
+                </node>
+                <node concept="3clFbH" id="5iIcuKULGYi" role="3cqZAp">
+                  <node concept="29HgVG" id="5iIcuKULH6i" role="lGtFl">
+                    <node concept="3NFfHV" id="5iIcuKULH6j" role="3NFExx">
+                      <node concept="3clFbS" id="5iIcuKULH6k" role="2VODD2">
+                        <node concept="3clFbF" id="5iIcuKULH6q" role="3cqZAp">
+                          <node concept="2OqwBi" id="5iIcuKULH6l" role="3clFbG">
+                            <node concept="3TrEf2" id="5iIcuKULH6o" role="2OqNvi">
+                              <ref role="3Tt5mk" to="ttlr:5iIcuKULkBF" resolve="Boundary" />
+                            </node>
+                            <node concept="30H73N" id="5iIcuKULH6p" role="2Oq$k0" />
+                          </node>
+                        </node>
+                      </node>
                     </node>
                   </node>
                 </node>
@@ -1136,6 +1166,29 @@
     <node concept="2tJIrI" id="1D$CuWygqaM" role="jymVt" />
     <node concept="3Tm1VV" id="1D$CuWyf$6e" role="1B3o_S" />
     <node concept="n94m4" id="1D$CuWyf$6f" role="lGtFl" />
+  </node>
+  <node concept="13MO4I" id="5iIcuKULkDB">
+    <property role="TrG5h" value="reduce_Boundary" />
+    <ref role="3gUMe" to="ttlr:5iIcuKULkAD" resolve="Boundary" />
+    <node concept="9aQIb" id="5iIcuKULkE7" role="13RCb5">
+      <node concept="3clFbS" id="5iIcuKULkE8" role="9aQI4">
+        <node concept="raruj" id="5iIcuKULloW" role="lGtFl" />
+        <node concept="3clFbF" id="5iIcuKULloZ" role="3cqZAp">
+          <node concept="2OqwBi" id="5iIcuKULlIT" role="3clFbG">
+            <node concept="10M0yZ" id="5iIcuKULlp7" role="2Oq$k0">
+              <ref role="3cqZAo" to="wyt6:~System.out" resolve="out" />
+              <ref role="1PxDUh" to="wyt6:~System" resolve="System" />
+            </node>
+            <node concept="liA8E" id="5iIcuKULm3S" role="2OqNvi">
+              <ref role="37wK5l" to="guwi:~PrintStream.println(java.lang.String):void" resolve="println" />
+              <node concept="Xl_RD" id="5iIcuKULmhb" role="37wK5m">
+                <property role="Xl_RC" value="Boundary" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
   </node>
 </model>
 

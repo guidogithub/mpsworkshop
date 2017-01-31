@@ -12,6 +12,7 @@ public class MyRoute extends JFrame {
     @Override
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);
+      System.out.println("Boundary");
       System.out.println("Fwd");
       System.out.println("Left");
     }

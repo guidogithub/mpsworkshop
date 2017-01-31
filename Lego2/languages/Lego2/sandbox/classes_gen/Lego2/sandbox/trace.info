@@ -8,39 +8,41 @@
   <root nodeRef="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854">
     <file name="MyRoute.java">
       <node id="1901822991100949854" at="13,54,14,37" concept="0" />
-      <node id="1901822991100949884" at="14,37,15,32" concept="0" />
-      <node id="1901822991100949890" at="15,32,16,33" concept="0" />
-      <node id="1901822991100949854" at="20,0,21,0" concept="1" trace="posX" />
-      <node id="1901822991100949854" at="21,0,22,0" concept="1" trace="posY" />
-      <node id="1901822991100949854" at="22,0,23,0" concept="1" trace="direction" />
-      <node id="1901822991100949854" at="24,28,25,25" concept="0" />
-      <node id="1901822991100949854" at="25,25,26,52" concept="0" />
-      <node id="1901822991100949854" at="26,52,27,20" concept="0" />
-      <node id="1901822991100949854" at="27,20,28,52" concept="0" />
-      <node id="1901822991100949854" at="28,52,29,16" concept="0" />
-      <node id="1901822991100949854" at="29,16,30,26" concept="0" />
-      <node id="1901822991100949854" at="32,42,33,34" concept="3" />
-      <node id="1901822991100949854" at="33,34,34,23" concept="0" />
-      <node id="1901822991100949854" at="32,0,36,0" concept="4" trace="main#([Ljava/lang/String;)V" />
-      <node id="1901822991100949854" at="12,0,18,0" concept="2" trace="paintComponent#(Ljava/awt/Graphics;)V" />
-      <node id="1901822991100949854" at="11,0,19,0" concept="1" trace="panel" />
-      <node id="1901822991100949854" at="24,0,32,0" concept="2" trace="initialize#()V" />
-      <scope id="1901822991100949884" at="14,37,15,32" />
-      <scope id="1901822991100949890" at="15,32,16,33" />
-      <scope id="1901822991100949854" at="32,42,34,23">
+      <node id="6101869435801748974" at="14,37,15,37" concept="0" />
+      <node id="1901822991100949884" at="15,37,16,32" concept="0" />
+      <node id="1901822991100949890" at="16,32,17,33" concept="0" />
+      <node id="1901822991100949854" at="21,0,22,0" concept="1" trace="posX" />
+      <node id="1901822991100949854" at="22,0,23,0" concept="1" trace="posY" />
+      <node id="1901822991100949854" at="23,0,24,0" concept="1" trace="direction" />
+      <node id="1901822991100949854" at="25,28,26,25" concept="0" />
+      <node id="1901822991100949854" at="26,25,27,52" concept="0" />
+      <node id="1901822991100949854" at="27,52,28,20" concept="0" />
+      <node id="1901822991100949854" at="28,20,29,52" concept="0" />
+      <node id="1901822991100949854" at="29,52,30,16" concept="0" />
+      <node id="1901822991100949854" at="30,16,31,26" concept="0" />
+      <node id="1901822991100949854" at="33,42,34,34" concept="3" />
+      <node id="1901822991100949854" at="34,34,35,23" concept="0" />
+      <node id="1901822991100949854" at="33,0,37,0" concept="4" trace="main#([Ljava/lang/String;)V" />
+      <node id="1901822991100949854" at="12,0,19,0" concept="2" trace="paintComponent#(Ljava/awt/Graphics;)V" />
+      <node id="1901822991100949854" at="25,0,33,0" concept="2" trace="initialize#()V" />
+      <node id="1901822991100949854" at="11,0,20,0" concept="1" trace="panel" />
+      <scope id="6101869435801748974" at="14,37,15,37" />
+      <scope id="1901822991100949884" at="15,37,16,32" />
+      <scope id="1901822991100949890" at="16,32,17,33" />
+      <scope id="1901822991100949854" at="33,42,35,23">
         <var name="route" id="1901822991100949854" />
       </scope>
-      <scope id="1901822991100949854" at="13,54,16,33" />
-      <scope id="1901822991100949854" at="32,0,36,0">
+      <scope id="1901822991100949854" at="13,54,17,33" />
+      <scope id="1901822991100949854" at="33,0,37,0">
         <var name="args" id="1901822991100949854" />
       </scope>
-      <scope id="1901822991100949854" at="12,0,18,0">
+      <scope id="1901822991100949854" at="25,28,31,26" />
+      <scope id="1901822991100949854" at="12,0,19,0">
         <var name="graphics" id="1901822991100949854" />
       </scope>
-      <scope id="1901822991100949854" at="24,28,30,26" />
-      <scope id="1901822991100949854" at="24,0,32,0" />
-      <unit id="1901822991100949854" at="11,29,18,3" name="Lego2.sandbox.MyRoute$1" />
-      <unit id="1901822991100949854" at="10,0,38,0" name="Lego2.sandbox.MyRoute" />
+      <scope id="1901822991100949854" at="25,0,33,0" />
+      <unit id="1901822991100949854" at="11,29,19,3" name="Lego2.sandbox.MyRoute$1" />
+      <unit id="1901822991100949854" at="10,0,39,0" name="Lego2.sandbox.MyRoute" />
     </file>
   </root>
 </debug-info>

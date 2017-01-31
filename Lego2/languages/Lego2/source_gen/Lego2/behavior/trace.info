@@ -4,6 +4,9 @@
     <file name="BehaviorAspectDescriptor.java">
       <unit at="13,0,41,0" name="Lego2.behavior.BehaviorAspectDescriptor" />
     </file>
+    <file name="Boundary_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Boundary_BehaviorDescriptor" />
+    </file>
     <file name="Cmd_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Cmd_BehaviorDescriptor" />
     </file>

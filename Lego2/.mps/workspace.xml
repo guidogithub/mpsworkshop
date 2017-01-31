@@ -6,7 +6,43 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="" />
+    <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mps/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute.class" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox.mps" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/generated" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/MyRoute.java" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/MyRoute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" />
+    </list>
     <ignored path="Lego2.iws" />
     <ignored path=".mps/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +58,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="d24115d0-9223-4b69-ad07-c89f73ea7164/r:d78d2bbd-1dc4-470c-8a97-de3c375479b3(TempModuled24115d0-9223-4b69-ad07-c89f73ea7164/TempModel_57429183605612)">
+            <model ref="67509739-6be5-493b-bbcd-8a40d99837cf/r:946d15ef-079a-49a3-ba22-fee467249f87(TempModule67509739-6be5-493b-bbcd-8a40d99837cf/TempModel_65802235350668)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -52,9 +88,9 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="1D$CuWyeUBl">
-                <node concept="3balQm" id="1D$CuWyeUBm" role="aymYE" />
-                <node concept="2Clz$F" id="1D$CuWyeUBn" role="aymYO">
+              <node concept="aymSD" id="5iIcuKULe11">
+                <node concept="3balQm" id="5iIcuKULe12" role="aymYE" />
+                <node concept="2Clz$F" id="5iIcuKULe13" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
               </node>
@@ -82,20 +118,20 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="main" pinned="false" current-in-tab="false">
         <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/main">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="320">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="150">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="317" />
-                    <property name="caretXRelative" value="88" />
+                    <property name="caretX" value="353" />
+                    <property name="caretXRelative" value="120" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100938637" />
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801651817" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -110,11 +146,17 @@
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -143,11 +185,17 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -155,7 +203,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reduce_Right" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reduce_Right" pinned="false" current-in-tab="false">
         <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Right">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -176,11 +224,135 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Boundary" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Lego2/Lego2.structure/Boundary">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="298" />
+                    <property name="caretXRelative" value="8" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_fgt3_c0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801658443" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
                 <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801651815" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Foo" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/Foo">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="295" />
+                    <property name="caretXRelative" value="20" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_width" cellNumber="0" isInList="false">
+                      <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/6101869435801748974" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+                <enabledHints />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="null_Editor" pinned="false" current-in-tab="false">
+        <entry file="mps://node://Lego2/Lego2.editor/null_Editor">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="427" />
+                    <property name="caretXRelative" value="44" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:bb28fcd0-34aa-4ef8-97ac-392fba40e750(Lego2.editor)/6101869435801651796" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -235,11 +407,17 @@
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -268,11 +446,17 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -280,7 +464,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Route" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Route" pinned="false" current-in-tab="true">
         <entry file="mps://node://Lego2/Lego2.structure/Route">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -288,11 +472,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="95" />
-                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="71" />
+                    <property name="caretXRelative" value="8" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_vmyx7q_a0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937745999" />
+                    <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -338,11 +522,17 @@
                   </collapsedElement>
                 </restoreAlways>
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -352,6 +542,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -375,7 +568,7 @@
     <option name="width" value="1618" />
     <option name="height" value="878" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -452,10 +645,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Favorites" />
-      <pane id="FileSystem" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="36d35b3e-5a78-4042-8b0e-d6682dd36f87(Lego2)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lego2#1901822991100783032" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="36d35b3e-5a78-4042-8b0e-d6682dd36f87(Lego2)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure) in IdeaFile{file://C:/Users/gloupias/Desktop/mpsworkshop/Lego2/languages/Lego2/models/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -477,6 +706,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lego2" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -525,14 +758,6 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lego2" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -541,40 +766,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="36d35b3e-5a78-4042-8b0e-d6682dd36f87(Lego2)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lego2#1901822991100783032" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="36d35b3e-5a78-4042-8b0e-d6682dd36f87(Lego2)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="36d35b3e-5a78-4042-8b0e-d6682dd36f87(Lego2)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure) in IdeaFile{file://C:/Users/gloupias/Desktop/mpsworkshop/Lego2/languages/Lego2/models/structure.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -601,66 +792,19 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
+      <pane id="Favorites" />
+      <pane id="FileSystem" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mps2/Lego2" />
   </component>
-  <component name="RunManager" selected="Java Application.Node Foo (5)">
-    <configuration default="false" name="Node Foo (1)" type="Java Application" factoryName="Java" temporary="true">
-      <MyState />
-      <myNode>
-        <MyState>
-          <option name="myNodeId" value="1901822991100906659" />
-          <option name="myModelId" value="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)" />
-        </MyState>
-      </myNode>
-      <myRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myRunParameters>
-      <method />
-    </configuration>
-    <configuration default="false" name="Node Foo (2)" type="Java Application" factoryName="Java" temporary="true">
-      <MyState />
-      <myNode>
-        <MyState>
-          <option name="myNodeId" value="1901822991100906659" />
-          <option name="myModelId" value="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)" />
-        </MyState>
-      </myNode>
-      <myRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myRunParameters>
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Java Application.Node Foo (1)">
     <configuration default="false" name="Node Foo (3)" type="Java Application" factoryName="Java" temporary="true">
       <MyState />
       <myNode>
@@ -712,6 +856,52 @@
       <myNode>
         <MyState>
           <option name="myNodeId" value="1901822991100906659" />
+          <option name="myModelId" value="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+      <method />
+    </configuration>
+    <configuration default="false" name="Node Foo" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodeId" value="1901822991100949854" />
+          <option name="myModelId" value="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)" />
+        </MyState>
+      </myNode>
+      <myRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myRunParameters>
+      <method />
+    </configuration>
+    <configuration default="false" name="Node Foo (1)" type="Java Application" factoryName="Java" temporary="true">
+      <MyState />
+      <myNode>
+        <MyState>
+          <option name="myNodeId" value="1901822991100949854" />
           <option name="myModelId" value="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)" />
         </MyState>
       </myNode>
@@ -787,34 +977,17 @@
       </myRunParameters>
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <MyState>
-        <option name="mySettings">
-          <RemoteConnectionSettings>
-            <option name="hostName" value="localhost" />
-            <option name="port" value="5005" />
-            <option name="sharedMemoryAddress" value="" />
-            <option name="suspend" value="false" />
-            <option name="useSockets" value="true" />
-          </RemoteConnectionSettings>
-        </option>
-      </MyState>
-      <method />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Java Application.Node Foo (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Java Application.Node Foo (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Java Application.Node Foo (3)" />
-      <item index="3" class="java.lang.String" itemvalue="Java Application.Node Foo (4)" />
-      <item index="4" class="java.lang.String" itemvalue="Java Application.Node Foo (5)" />
+      <item index="0" class="java.lang.String" itemvalue="Java Application.Node Foo (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Java Application.Node Foo (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Java Application.Node Foo (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Java Application.Node Foo" />
+      <item index="4" class="java.lang.String" itemvalue="Java Application.Node Foo (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Java Application.Node Foo (5)" />
-        <item index="1" class="java.lang.String" itemvalue="Java Application.Node Foo (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Java Application.Node Foo (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Java Application.Node Foo (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Java Application.Node Foo (1)" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Java Application.Node Foo (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Java Application.Node Foo" />
       </list>
     </recent_temporary>
   </component>
@@ -828,39 +1001,39 @@
     <frame x="-9" y="-9" width="1618" height="878" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.4775" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.4775" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.525" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.525" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.475" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.4875" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.475" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.4875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UsagesViewTool">
@@ -882,31 +1055,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Left">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="147" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784075" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="Cmd" propertyCell="false" cellId="empty_target" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784075" />
-              </errorMarker>
-            </errorMarkers>
+            <selectionStack />
+            <errorMarkers />
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -914,35 +1073,20 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100783973" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Right">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
-              </errorMarker>
-            </errorMarkers>
+            <selectionStack />
+            <errorMarkers />
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -950,35 +1094,46 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/Robot">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
-              </errorMarker>
-            </errorMarkers>
+            <selectionStack />
+            <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991101176576" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991101144814" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100983300" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100958773" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_y68cfu_h0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100954699" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -986,35 +1141,20 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784078" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Fwd">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784106" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784106" />
-              </errorMarker>
-            </errorMarkers>
+            <selectionStack />
+            <errorMarkers />
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784106" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1022,35 +1162,20 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784106" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2/Lego2.structure/Route">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="147" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_sourceCardinality" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784075" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="Cmd" propertyCell="false" cellId="empty_target" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784075" />
-              </errorMarker>
-            </errorMarkers>
+            <selectionStack />
+            <errorMarkers />
             <transactionalProperties />
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784106" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1058,35 +1183,36 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100783973" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="320">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="4" />
+                <property name="caretX" value="317" />
+                <property name="caretXRelative" value="88" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784144" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100938637" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784144" />
-              </errorMarker>
-            </errorMarkers>
+            <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_dropAttrubuteRule" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100783033" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784144" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1094,10 +1220,141 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100784144" />
         </state>
       </provider>
     </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Left">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Right">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="23" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_319n5h_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/Robot">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991101176576" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991101144814" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100983300" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100958773" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_y68cfu_h0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100954699" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Fwd">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://Lego2/Lego2.structure/Left">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1233,74 +1490,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100783973" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100933179" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100783973" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name" cellNumber="0" isInList="false">
-                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100933412" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
-                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100933412" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100933412" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/1901822991100933412" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
     <entry file="mps://node://Lego2/Lego2.structure/Left">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1525,306 +1716,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="320">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="317" />
-                <property name="caretXRelative" value="88" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100938637" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_dropAttrubuteRule" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100783033" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="12" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="constant_4" cellNumber="0" isInList="false">
-                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100906659" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="12" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="constant_4" cellNumber="0" isInList="false">
-                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100906659" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100906659" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="63" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="63" />
-                <property name="caretXRelative" value="4" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/Foo">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="79" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_tu0zma_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949890" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100877699" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100952973" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100952973" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/&lt;no name&gt;[Route]" />
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null" />
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null" />
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/null" />
     <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/Robot">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1871,11 +1771,93 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]" />
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/&lt;no name&gt;[TemplateDeclaration]" />
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Fwd">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="23" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_319n5h_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100872205" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
             <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Left">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="130" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100877699" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1884,16 +1866,243 @@
     </entry>
     <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
       <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
+                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/&lt;no name&gt;[ConceptDeclaration]">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="79" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="name" cellNumber="0" isInList="false">
+                  <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="true" cellId="name" cellNumber="0" isInList="false">
+                <node node_reference="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)/6101869435801651625" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.editor/null_Editor">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="427" />
+                <property name="caretXRelative" value="44" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:bb28fcd0-34aa-4ef8-97ac-392fba40e750(Lego2.editor)/6101869435801651796" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/Boundary">
+      <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="95" />
-                <property name="caretXRelative" value="32" />
+                <property name="caretX" value="298" />
+                <property name="caretXRelative" value="8" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_vmyx7q_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937745999" />
+                <cellInfo cellId="Constant_fgt3_c0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801658443" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801651815" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2.sandbox/Lego2.sandbox/Foo">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="295" />
+                <property name="caretXRelative" value="20" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_width" cellNumber="0" isInList="false">
+                  <node node_reference="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/6101869435801748974" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="150">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="353" />
+                <property name="caretXRelative" value="120" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801651817" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_dropAttrubuteRule" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100783033" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://Lego2/Lego2.structure/Route">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="8" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -1939,108 +2148,21 @@
               </collapsedElement>
             </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
           <node node_ref="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/&lt;no name&gt;[TemplateDeclaration]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="23" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_319n5h_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100872205" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Fwd">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="130" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100877699" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Left">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="23" />
-                <property name="caretXRelative" value="8" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_319n5h_c0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100878083" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
         </state>
       </provider>
     </entry>
