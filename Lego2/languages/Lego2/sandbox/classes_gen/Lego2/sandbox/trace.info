@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:ebb2cf52-a59f-497e-9827-cf3038ef186e(Lego2.sandbox)/1901822991100949854">
+    <file name="MyRoute.java">
+      <node id="1901822991100949854" at="13,54,14,37" concept="0" />
+      <node id="1901822991100949884" at="14,37,15,32" concept="0" />
+      <node id="1901822991100949890" at="15,32,16,33" concept="0" />
+      <node id="1901822991100949854" at="20,0,21,0" concept="1" trace="posX" />
+      <node id="1901822991100949854" at="21,0,22,0" concept="1" trace="posY" />
+      <node id="1901822991100949854" at="22,0,23,0" concept="1" trace="direction" />
+      <node id="1901822991100949854" at="24,28,25,25" concept="0" />
+      <node id="1901822991100949854" at="25,25,26,52" concept="0" />
+      <node id="1901822991100949854" at="26,52,27,20" concept="0" />
+      <node id="1901822991100949854" at="27,20,28,52" concept="0" />
+      <node id="1901822991100949854" at="28,52,29,16" concept="0" />
+      <node id="1901822991100949854" at="29,16,30,26" concept="0" />
+      <node id="1901822991100949854" at="32,42,33,34" concept="3" />
+      <node id="1901822991100949854" at="33,34,34,23" concept="0" />
+      <node id="1901822991100949854" at="32,0,36,0" concept="4" trace="main#([Ljava/lang/String;)V" />
+      <node id="1901822991100949854" at="12,0,18,0" concept="2" trace="paintComponent#(Ljava/awt/Graphics;)V" />
+      <node id="1901822991100949854" at="11,0,19,0" concept="1" trace="panel" />
+      <node id="1901822991100949854" at="24,0,32,0" concept="2" trace="initialize#()V" />
+      <scope id="1901822991100949884" at="14,37,15,32" />
+      <scope id="1901822991100949890" at="15,32,16,33" />
+      <scope id="1901822991100949854" at="32,42,34,23">
+        <var name="route" id="1901822991100949854" />
+      </scope>
+      <scope id="1901822991100949854" at="13,54,16,33" />
+      <scope id="1901822991100949854" at="32,0,36,0">
+        <var name="args" id="1901822991100949854" />
+      </scope>
+      <scope id="1901822991100949854" at="12,0,18,0">
+        <var name="graphics" id="1901822991100949854" />
+      </scope>
+      <scope id="1901822991100949854" at="24,28,30,26" />
+      <scope id="1901822991100949854" at="24,0,32,0" />
+      <unit id="1901822991100949854" at="11,29,18,3" name="Lego2.sandbox.MyRoute$1" />
+      <unit id="1901822991100949854" at="10,0,38,0" name="Lego2.sandbox.MyRoute" />
+    </file>
+  </root>
+</debug-info>
+

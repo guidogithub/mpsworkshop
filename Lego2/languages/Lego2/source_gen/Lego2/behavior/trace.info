@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="Lego2.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Cmd_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Cmd_BehaviorDescriptor" />
+    </file>
+    <file name="Fwd_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Fwd_BehaviorDescriptor" />
+    </file>
+    <file name="Left_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Left_BehaviorDescriptor" />
+    </file>
+    <file name="Right_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Right_BehaviorDescriptor" />
+    </file>
+    <file name="Route_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Route_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
