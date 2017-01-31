@@ -7,41 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.mps/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute.class" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox.mps" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/generated" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/MyRoute.java" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/MyRoute.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" />
     </list>
     <ignored path="Lego2.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -146,17 +113,11 @@
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -185,17 +146,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -224,17 +179,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -263,17 +212,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -303,17 +246,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -342,17 +279,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -407,17 +338,11 @@
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -446,17 +371,11 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -472,11 +391,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="71" />
-                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="190" />
+                    <property name="caretXRelative" value="63" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -509,30 +428,13 @@
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937633649" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937629328" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
+                <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                      <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
+                <foldable />
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
@@ -787,12 +689,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
         </subPane>
       </pane>
       <pane id="Favorites" />
@@ -999,7 +895,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1618" height="878" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.4775" order="7" side_tool="false" content_ui="tabs" />
@@ -1010,7 +906,7 @@
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.525" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.520625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1018,13 +914,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769832" sideWeight="0.475" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.4875" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769832" sideWeight="0.479375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1053,6 +949,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FOo" />
+    <option name="LAST_COMMIT_MESSAGE" value="FOo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://Lego2#1901822991100783032/Lego2.generator.template.main@generator/reduce_Left">
@@ -1264,17 +1164,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1771,17 +1665,11 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1810,17 +1698,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1847,17 +1729,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1956,17 +1832,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -1993,17 +1863,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -2031,17 +1895,11 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -2074,17 +1932,11 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
@@ -2098,11 +1950,11 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="190" />
+                <property name="caretXRelative" value="63" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_jiideg_a0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2135,30 +1987,13 @@
                 </cellIdElement>
               </collapsedElement>
             </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937633649" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_msf9u8_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1988730296937629328" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
+            <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751954" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/1901822991100789234" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_trik0f_b0" cellNumber="0" isInList="false">
-                  <node node_reference="r:b36c7b8a-ee2e-44f8-87a5-1ad4a7445ce2(Lego2.generator.template.main@generator)/6101869435801751955" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
+            <foldable />
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
