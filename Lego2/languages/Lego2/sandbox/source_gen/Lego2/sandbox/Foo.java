@@ -97,9 +97,11 @@ public class Foo extends JFrame {
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);
       Foo.Robot robot = new Foo.Robot(0, 0, Foo.Robot.Orientation.EAST, Color.BLACK);
-      System.out.println("Boundary");
-      .Fwd(, 10);
-      .Left();
+      graphics.drawRect(0, 0, 500, 500);
+      robot.Fwd(graphics, 10);
+      robot.Right();
+      robot.Fwd(graphics, 10);
+      robot.Left();
     }
   };
 

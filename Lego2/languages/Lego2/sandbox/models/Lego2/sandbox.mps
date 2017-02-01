@@ -15,6 +15,7 @@
         <child id="1901822991100784240" name="Cmds" index="SnKYv" />
         <child id="6101869435801651691" name="Boundary" index="1IqRw7" />
       </concept>
+      <concept id="1901822991100784175" name="Lego2.structure.Right" flags="ng" index="SnKZ0" />
       <concept id="6101869435801651625" name="Lego2.structure.Boundary" flags="ng" index="1IqRx5">
         <property id="6101869435801651653" name="length" index="1IqRwD" />
         <property id="6101869435801651655" name="width" index="1IqRwF" />
@@ -31,10 +32,14 @@
     <node concept="SnKK5" id="1D$CuWyfzlW" role="SnKYv">
       <property role="SnKZA" value="10" />
     </node>
+    <node concept="SnKZ0" id="4vdWYFtF_y2" role="SnKYv" />
+    <node concept="SnKK5" id="4vdWYFtF_yc" role="SnKYv">
+      <property role="SnKZA" value="10" />
+    </node>
     <node concept="Smljb" id="1D$CuWyfzm2" role="SnKYv" />
     <node concept="1IqRx5" id="5iIcuKULGnI" role="1IqRw7">
-      <property role="1IqRwD" value="20" />
-      <property role="1IqRwF" value="20" />
+      <property role="1IqRwD" value="500" />
+      <property role="1IqRwF" value="500" />
     </node>
   </node>
 </model>
