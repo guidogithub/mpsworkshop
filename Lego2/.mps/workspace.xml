@@ -7,20 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/MyRoute.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/Route_Editor.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/Route_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/MyRoute$1.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" />
     </list>
     <ignored path="Lego2.iws" />
     <ignored path=".mps/workspace.xml" />
