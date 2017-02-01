@@ -103,6 +103,16 @@
     <property role="EcuMT" value="6101869435801651625" />
     <property role="TrG5h" value="Boundary" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyi" id="6qL48xpuzxQ" role="1TKVEl">
+      <property role="IQ2nx" value="7399713840549214326" />
+      <property role="TrG5h" value="posx" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6qL48xpuzxU" role="1TKVEl">
+      <property role="IQ2nx" value="7399713840549214330" />
+      <property role="TrG5h" value="posy" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
     <node concept="1TJgyi" id="5iIcuKULkB5" role="1TKVEl">
       <property role="IQ2nx" value="6101869435801651653" />
       <property role="TrG5h" value="length" />

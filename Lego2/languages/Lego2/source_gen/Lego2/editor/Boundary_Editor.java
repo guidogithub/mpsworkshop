@@ -27,6 +27,12 @@ public class Boundary_Editor extends DefaultNodeEditor {
     editorCell.addEditorCell(this.createConstant_daxp5d_e0(editorContext, node));
     editorCell.addEditorCell(this.createConstant_daxp5d_f0(editorContext, node));
     editorCell.addEditorCell(this.createProperty_daxp5d_g0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_daxp5d_h0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_daxp5d_i0(editorContext, node));
+    editorCell.addEditorCell(this.createProperty_daxp5d_j0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_daxp5d_k0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_daxp5d_l0(editorContext, node));
+    editorCell.addEditorCell(this.createProperty_daxp5d_m0(editorContext, node));
     return editorCell;
   }
   private EditorCell createConstant_daxp5d_a0(EditorContext editorContext, SNode node) {
@@ -36,7 +42,7 @@ public class Boundary_Editor extends DefaultNodeEditor {
     return editorCell;
   }
   private EditorCell createConstant_daxp5d_b0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "length");
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "posx");
     editorCell.setCellId("Constant_daxp5d_b0");
     editorCell.setDefaultText("");
     return editorCell;
@@ -48,6 +54,60 @@ public class Boundary_Editor extends DefaultNodeEditor {
     return editorCell;
   }
   private EditorCell createProperty_daxp5d_d0(EditorContext editorContext, SNode node) {
+    CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
+    provider.setRole("posx");
+    provider.setNoTargetText("<no posx>");
+    EditorCell editorCell;
+    editorCell = provider.createEditorCell(editorContext);
+    editorCell.setCellId("property_posx");
+    editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
+    SNode attributeConcept = provider.getRoleAttribute();
+    if (attributeConcept != null) {
+      EditorManager manager = EditorManager.getInstanceFromContext(editorContext);
+      return manager.createNodeRoleAttributeCell(attributeConcept, provider.getRoleAttributeKind(), editorCell);
+    } else
+    return editorCell;
+  }
+  private EditorCell createConstant_daxp5d_e0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "posy");
+    editorCell.setCellId("Constant_daxp5d_e0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createConstant_daxp5d_f0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, ":");
+    editorCell.setCellId("Constant_daxp5d_f0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createProperty_daxp5d_g0(EditorContext editorContext, SNode node) {
+    CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
+    provider.setRole("posy");
+    provider.setNoTargetText("<no posy>");
+    EditorCell editorCell;
+    editorCell = provider.createEditorCell(editorContext);
+    editorCell.setCellId("property_posy");
+    editorCell.setSubstituteInfo(provider.createDefaultSubstituteInfo());
+    SNode attributeConcept = provider.getRoleAttribute();
+    if (attributeConcept != null) {
+      EditorManager manager = EditorManager.getInstanceFromContext(editorContext);
+      return manager.createNodeRoleAttributeCell(attributeConcept, provider.getRoleAttributeKind(), editorCell);
+    } else
+    return editorCell;
+  }
+  private EditorCell createConstant_daxp5d_h0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "length");
+    editorCell.setCellId("Constant_daxp5d_h0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createConstant_daxp5d_i0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, ":");
+    editorCell.setCellId("Constant_daxp5d_i0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createProperty_daxp5d_j0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
     provider.setRole("length");
     provider.setNoTargetText("<no length>");
@@ -62,19 +122,19 @@ public class Boundary_Editor extends DefaultNodeEditor {
     } else
     return editorCell;
   }
-  private EditorCell createConstant_daxp5d_e0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_daxp5d_k0(EditorContext editorContext, SNode node) {
     EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "width");
-    editorCell.setCellId("Constant_daxp5d_e0");
+    editorCell.setCellId("Constant_daxp5d_k0");
     editorCell.setDefaultText("");
     return editorCell;
   }
-  private EditorCell createConstant_daxp5d_f0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_daxp5d_l0(EditorContext editorContext, SNode node) {
     EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, ":");
-    editorCell.setCellId("Constant_daxp5d_f0");
+    editorCell.setCellId("Constant_daxp5d_l0");
     editorCell.setDefaultText("");
     return editorCell;
   }
-  private EditorCell createProperty_daxp5d_g0(EditorContext editorContext, SNode node) {
+  private EditorCell createProperty_daxp5d_m0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
     provider.setRole("width");
     provider.setNoTargetText("<no width>");

@@ -17,6 +17,8 @@
       </concept>
       <concept id="1901822991100784175" name="Lego2.structure.Right" flags="ng" index="SnKZ0" />
       <concept id="6101869435801651625" name="Lego2.structure.Boundary" flags="ng" index="1IqRx5">
+        <property id="7399713840549214330" name="posy" index="ZMMzM" />
+        <property id="7399713840549214326" name="posx" index="ZMMzY" />
         <property id="6101869435801651653" name="length" index="1IqRwD" />
         <property id="6101869435801651655" name="width" index="1IqRwF" />
       </concept>
@@ -29,17 +31,31 @@
   </registry>
   <node concept="SnKMa" id="1D$CuWyfzlu">
     <property role="TrG5h" value="Foo" />
-    <node concept="SnKK5" id="1D$CuWyfzlW" role="SnKYv">
-      <property role="SnKZA" value="10" />
-    </node>
-    <node concept="SnKZ0" id="4vdWYFtF_y2" role="SnKYv" />
-    <node concept="SnKK5" id="4vdWYFtF_yc" role="SnKYv">
-      <property role="SnKZA" value="10" />
-    </node>
-    <node concept="Smljb" id="1D$CuWyfzm2" role="SnKYv" />
-    <node concept="1IqRx5" id="5iIcuKULGnI" role="1IqRw7">
+    <node concept="1IqRx5" id="6qL48xpuIsz" role="1IqRw7">
+      <property role="ZMMzY" value="100" />
+      <property role="ZMMzM" value="100" />
       <property role="1IqRwD" value="500" />
       <property role="1IqRwF" value="500" />
+    </node>
+    <node concept="SnKK5" id="6qL48xpuLmh" role="SnKYv">
+      <property role="SnKZA" value="200" />
+    </node>
+    <node concept="SnKZ0" id="6qL48xpuLnh" role="SnKYv" />
+    <node concept="SnKK5" id="6qL48xpuLnt" role="SnKYv">
+      <property role="SnKZA" value="50" />
+    </node>
+    <node concept="Smljb" id="6qL48xpuLnF" role="SnKYv" />
+    <node concept="SnKK5" id="6qL48xpuLnV" role="SnKYv">
+      <property role="SnKZA" value="80" />
+    </node>
+    <node concept="SnKZ0" id="6qL48xpuLod" role="SnKYv" />
+    <node concept="SnKK5" id="6qL48xpuLox" role="SnKYv">
+      <property role="SnKZA" value="100" />
+    </node>
+    <node concept="Smljb" id="6qL48xpuLpb" role="SnKYv" />
+    <node concept="Smljb" id="6qL48xpuLpT" role="SnKYv" />
+    <node concept="SnKK5" id="6qL48xpuLqj" role="SnKYv">
+      <property role="SnKZA" value="200" />
     </node>
   </node>
 </model>

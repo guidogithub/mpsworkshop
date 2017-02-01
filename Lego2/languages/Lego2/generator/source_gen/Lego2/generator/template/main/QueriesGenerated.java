@@ -22,6 +22,12 @@ public class QueriesGenerated {
   public static Object propertyMacro_GetPropertyValue_5174059736985489062(final PropertyMacroContext _context) {
     return SPropertyOperations.getInteger(_context.getNode(), MetaAdapterFactory.getProperty(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badeaL, 0x1a64a1ef223bae09L, "distance"));
   }
+  public static Object propertyMacro_GetPropertyValue_7399713840549217792(final PropertyMacroContext _context) {
+    return SPropertyOperations.getInteger(_context.getNode(), MetaAdapterFactory.getProperty(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, 0x66b11088597a3876L, "posx"));
+  }
+  public static Object propertyMacro_GetPropertyValue_7399713840549224611(final PropertyMacroContext _context) {
+    return SPropertyOperations.getInteger(_context.getNode(), MetaAdapterFactory.getProperty(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, 0x66b11088597a387aL, "posy"));
+  }
   public static Object propertyMacro_GetPropertyValue_5174059736985595857(final PropertyMacroContext _context) {
     return SPropertyOperations.getInteger(_context.getNode(), MetaAdapterFactory.getProperty(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, 0x54ae31ec3ac549c5L, "length"));
   }
