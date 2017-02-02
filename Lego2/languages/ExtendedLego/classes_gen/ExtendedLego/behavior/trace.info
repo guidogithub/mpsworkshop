@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="ExtendedLego.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="ExtendedRoute_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.ExtendedRoute_BehaviorDescriptor" />
+    </file>
+    <file name="Fwd1_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.Fwd1_BehaviorDescriptor" />
+    </file>
+    <file name="Fwd2_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.Fwd2_BehaviorDescriptor" />
+    </file>
+    <file name="Variable_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.Variable_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

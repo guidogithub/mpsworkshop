@@ -2,8 +2,10 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/ExtendedLego/ExtendedLego.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/Lego2/Lego2.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/ExtendedLegoSolution/ExtendedLegoSolution.msd" folder="" />
     </projectModules>
   </component>
 </project>
