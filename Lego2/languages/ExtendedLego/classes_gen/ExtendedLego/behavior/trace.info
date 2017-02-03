@@ -7,11 +7,11 @@
     <file name="ExtendedRoute_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="ExtendedLego.behavior.ExtendedRoute_BehaviorDescriptor" />
     </file>
-    <file name="Fwd1_BehaviorDescriptor.java">
-      <unit at="11,0,17,0" name="ExtendedLego.behavior.Fwd1_BehaviorDescriptor" />
+    <file name="Forward_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.Forward_BehaviorDescriptor" />
     </file>
-    <file name="Fwd2_BehaviorDescriptor.java">
-      <unit at="11,0,17,0" name="ExtendedLego.behavior.Fwd2_BehaviorDescriptor" />
+    <file name="VariableReference_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="ExtendedLego.behavior.VariableReference_BehaviorDescriptor" />
     </file>
     <file name="Variable_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="ExtendedLego.behavior.Variable_BehaviorDescriptor" />

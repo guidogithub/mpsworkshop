@@ -22,22 +22,17 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
       switch (switchIndex) {
         case 0:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new ExtendedRoute_Editor());
+            return Collections.<ConceptEditor>singletonList(new Forward_Editor());
           }
           break;
         case 1:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Fwd1_Editor());
+            return Collections.<ConceptEditor>singletonList(new Variable_Editor());
           }
           break;
         case 2:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Fwd2_Editor());
-          }
-          break;
-        case 3:
-          if (true) {
-            return Collections.<ConceptEditor>singletonList(new Variable_Editor());
+            return Collections.<ConceptEditor>singletonList(new VariableReference_Editor());
           }
           break;
         default:
@@ -56,5 +51,5 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
     }
     return res;
   }
-  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x66b11088597cabb8L, "ExtendedLego.structure.ExtendedRoute"), MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x66b1108859800177L, "ExtendedLego.structure.Fwd1"), MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x50e739214d6a75eaL, "ExtendedLego.structure.Fwd2"), MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x66b11088597cab66L, "ExtendedLego.structure.Variable"));
+  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x50e739214d6a75eaL, "ExtendedLego.structure.Forward"), MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x66b11088597cab66L, "ExtendedLego.structure.Variable"), MetaAdapterFactory.getConcept(0xb486f0c9730c4d3cL, 0xb173e48b03fdb9c5L, 0x409bb44bf96f44e2L, "ExtendedLego.structure.VariableReference"));
 }

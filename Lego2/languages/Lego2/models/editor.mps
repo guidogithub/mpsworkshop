@@ -39,7 +39,6 @@
       <concept id="1219418625346" name="jetbrains.mps.lang.editor.structure.IStyleContainer" flags="ng" index="3F0Thp">
         <child id="1219418656006" name="styleItem" index="3F10Kt" />
       </concept>
-      <concept id="1073389882823" name="jetbrains.mps.lang.editor.structure.CellModel_RefNode" flags="sg" stub="730538219795960754" index="3F1sOY" />
       <concept id="1073390211982" name="jetbrains.mps.lang.editor.structure.CellModel_RefNodeList" flags="sg" stub="2794558372793454595" index="3F2HdR" />
       <concept id="1166049232041" name="jetbrains.mps.lang.editor.structure.AbstractComponent" flags="ng" index="1XWOmA">
         <reference id="1166049300910" name="conceptDeclaration" index="1XX52x" />
@@ -47,16 +46,10 @@
     </language>
   </registry>
   <node concept="24kQdi" id="1D$CuWyeV5q">
-    <ref role="1XX52x" to="ttlr:1D$CuWyeURE" resolve="Fwd" />
+    <ref role="1XX52x" to="ttlr:1D$CuWyeURE" resolve="Forward" />
     <node concept="3EZMnI" id="1D$CuWyeV5R" role="2wV5jI">
       <node concept="3F0ifn" id="1D$CuWyeV61" role="3EZMnx">
-        <property role="3F0ifm" value="Fwd" />
-      </node>
-      <node concept="3F0ifn" id="1D$CuWyeV6a" role="3EZMnx">
-        <property role="3F0ifm" value="distance" />
-      </node>
-      <node concept="3F0ifn" id="1D$CuWyeV6n" role="3EZMnx">
-        <property role="3F0ifm" value=":" />
+        <property role="3F0ifm" value="Forward" />
       </node>
       <node concept="3F0A7n" id="1D$CuWyeV6C" role="3EZMnx">
         <ref role="1NtTu8" to="ttlr:1D$CuWyeUS9" resolve="distance" />
@@ -91,22 +84,13 @@
         </node>
         <node concept="2iRfu4" id="1D$CuWyeVnU" role="2iSdaV" />
       </node>
-      <node concept="3EZMnI" id="5iIcuKULXGh" role="3EZMnx">
-        <node concept="3F1sOY" id="5iIcuKULXGZ" role="3EZMnx">
-          <ref role="1NtTu8" to="ttlr:5iIcuKULkBF" resolve="Boundary" />
-        </node>
-        <node concept="VPM3Z" id="5iIcuKULXGj" role="3F10Kt">
-          <property role="VOm3f" value="false" />
-        </node>
-        <node concept="l2Vlx" id="5iIcuKULXGm" role="2iSdaV" />
-      </node>
       <node concept="2iRkQZ" id="1D$CuWyeVnI" role="2iSdaV" />
       <node concept="3EZMnI" id="1D$CuWyeVpE" role="3EZMnx">
         <node concept="VPM3Z" id="1D$CuWyeVpG" role="3F10Kt">
           <property role="VOm3f" value="false" />
         </node>
         <node concept="3F2HdR" id="1D$CuWyeVq5" role="3EZMnx">
-          <ref role="1NtTu8" to="ttlr:1D$CuWyeUTK" resolve="Cmds" />
+          <ref role="1NtTu8" to="ttlr:42rH4JTsYtH" resolve="Statements" />
           <node concept="2iRkQZ" id="1D$CuWyeVq8" role="2czzBx" />
           <node concept="VPM3Z" id="1D$CuWyeVq9" role="3F10Kt">
             <property role="VOm3f" value="false" />

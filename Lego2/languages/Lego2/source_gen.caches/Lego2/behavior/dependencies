@@ -14,11 +14,11 @@
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
-  <dependency className="Lego2.behavior.Cmd_BehaviorDescriptor" file="Cmd_BehaviorDescriptor.java">
+  <dependency className="Lego2.behavior.Command_BehaviorDescriptor" file="Command_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
-  <dependency className="Lego2.behavior.Fwd_BehaviorDescriptor" file="Fwd_BehaviorDescriptor.java">
+  <dependency className="Lego2.behavior.Forward_BehaviorDescriptor" file="Forward_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
@@ -31,6 +31,10 @@
     <classNode dependClassName="java.lang.String" />
   </dependency>
   <dependency className="Lego2.behavior.Route_BehaviorDescriptor" file="Route_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Deprecated" />
+    <classNode dependClassName="java.lang.String" />
+  </dependency>
+  <dependency className="Lego2.behavior.Statement_BehaviorDescriptor" file="Statement_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>

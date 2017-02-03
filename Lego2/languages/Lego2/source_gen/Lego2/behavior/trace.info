@@ -7,11 +7,11 @@
     <file name="Boundary_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Boundary_BehaviorDescriptor" />
     </file>
-    <file name="Cmd_BehaviorDescriptor.java">
-      <unit at="11,0,17,0" name="Lego2.behavior.Cmd_BehaviorDescriptor" />
+    <file name="Command_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Command_BehaviorDescriptor" />
     </file>
-    <file name="Fwd_BehaviorDescriptor.java">
-      <unit at="11,0,17,0" name="Lego2.behavior.Fwd_BehaviorDescriptor" />
+    <file name="Forward_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Forward_BehaviorDescriptor" />
     </file>
     <file name="Left_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Left_BehaviorDescriptor" />
@@ -21,6 +21,9 @@
     </file>
     <file name="Route_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Route_BehaviorDescriptor" />
+    </file>
+    <file name="Statement_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Statement_BehaviorDescriptor" />
     </file>
   </root>
 </debug-info>

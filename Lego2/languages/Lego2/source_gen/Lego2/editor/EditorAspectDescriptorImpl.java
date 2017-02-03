@@ -27,7 +27,7 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
           break;
         case 1:
           if (true) {
-            return Collections.<ConceptEditor>singletonList(new Fwd_Editor());
+            return Collections.<ConceptEditor>singletonList(new Forward_Editor());
           }
           break;
         case 2:
@@ -61,5 +61,5 @@ public class EditorAspectDescriptorImpl extends EditorAspectDescriptorBase {
     }
     return res;
   }
-  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, "Lego2.structure.Boundary"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badeaL, "Lego2.structure.Fwd"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223df524L, "Lego2.structure.Left"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bae2fL, "Lego2.structure.Right"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, "Lego2.structure.Route"));
+  private static final Map<SAbstractConcept, Integer> indices_xbvbvu_a0a = buildConceptIndices(MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x54ae31ec3ac549a9L, "Lego2.structure.Boundary"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223badeaL, "Lego2.structure.Forward"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223df524L, "Lego2.structure.Left"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bae2fL, "Lego2.structure.Right"), MetaAdapterFactory.getConcept(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L, "Lego2.structure.Route"));
 }

@@ -7,6 +7,7 @@ import jetbrains.mps.openapi.editor.cells.EditorCell;
 import jetbrains.mps.openapi.editor.EditorContext;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
+import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.PropertyCellProvider;
 import jetbrains.mps.nodeEditor.EditorManager;
@@ -16,14 +17,22 @@ public class Variable_Editor extends DefaultNodeEditor {
     return this.createCollection_pfjbyg_a(editorContext, node);
   }
   private EditorCell createCollection_pfjbyg_a(EditorContext editorContext, SNode node) {
-    EditorCell_Collection editorCell = EditorCell_Collection.createHorizontal(editorContext, node);
+    EditorCell_Collection editorCell = EditorCell_Collection.createIndent2(editorContext, node);
     editorCell.setCellId("Collection_pfjbyg_a");
     editorCell.setBig(true);
-    editorCell.addEditorCell(this.createProperty_pfjbyg_a0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_pfjbyg_a0(editorContext, node));
     editorCell.addEditorCell(this.createProperty_pfjbyg_b0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_pfjbyg_c0(editorContext, node));
+    editorCell.addEditorCell(this.createProperty_pfjbyg_d0(editorContext, node));
     return editorCell;
   }
-  private EditorCell createProperty_pfjbyg_a0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_pfjbyg_a0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "Var");
+    editorCell.setCellId("Constant_pfjbyg_a0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createProperty_pfjbyg_b0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
     provider.setRole("name");
     provider.setNoTargetText("<no name>");
@@ -38,7 +47,13 @@ public class Variable_Editor extends DefaultNodeEditor {
     } else
     return editorCell;
   }
-  private EditorCell createProperty_pfjbyg_b0(EditorContext editorContext, SNode node) {
+  private EditorCell createConstant_pfjbyg_c0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, ":=");
+    editorCell.setCellId("Constant_pfjbyg_c0");
+    editorCell.setDefaultText("");
+    return editorCell;
+  }
+  private EditorCell createProperty_pfjbyg_d0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
     provider.setRole("value");
     provider.setNoTargetText("<no value>");

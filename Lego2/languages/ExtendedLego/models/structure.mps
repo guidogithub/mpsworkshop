@@ -7,8 +7,8 @@
   </languages>
   <imports>
     <import index="tpee" ref="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
-    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
     <import index="ttlr" ref="r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)" implicit="true" />
+    <import index="tpck" ref="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" implicit="true" />
   </imports>
   <registry>
     <language id="c72da2b9-7cce-4447-8389-f407dc1158b7" name="jetbrains.mps.lang.structure">
@@ -48,14 +48,16 @@
     <property role="EcuMT" value="7399713840549374822" />
     <property role="TrG5h" value="Variable" />
     <property role="34LRSv" value="Variable" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <ref role="1TJDcQ" to="ttlr:42rH4JTsYth" resolve="Statement" />
+    <node concept="1TJgyi" id="42rH4JTtJhA" role="1TKVEl">
+      <property role="IQ2nx" value="4655512878218409062" />
+      <property role="TrG5h" value="name" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
     <node concept="1TJgyi" id="6qL48xpvaIL" role="1TKVEl">
       <property role="IQ2nx" value="7399713840549374897" />
       <property role="TrG5h" value="value" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
-    </node>
-    <node concept="PrWs8" id="6qL48xpvaWk" role="PzmwI">
-      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
   <node concept="1TIwiD" id="6qL48xpvaIS">
@@ -74,30 +76,29 @@
       <ref role="20lvS9" node="6qL48xpvaHA" resolve="Variable" />
     </node>
   </node>
-  <node concept="1TIwiD" id="6qL48xpw05R">
-    <property role="EcuMT" value="7399713840549593463" />
-    <property role="TrG5h" value="Fwd1" />
-    <property role="34LRSv" value="Fwd1" />
-    <ref role="1TJDcQ" to="ttlr:1D$CuWyeURE" resolve="Fwd" />
-    <node concept="1TJgyj" id="6qL48xpw8KC" role="1TKVEi">
-      <property role="IQ2ns" value="7399713840549628968" />
-      <property role="20lmBu" value="reference" />
-      <property role="20kJfa" value="variable" />
-      <property role="20lbJX" value="1" />
-      <ref role="20lvS9" node="6qL48xpvaHA" resolve="Variable" />
-    </node>
-  </node>
   <node concept="1TIwiD" id="53Bei5dqBnE">
     <property role="EcuMT" value="5829691057849923050" />
-    <property role="TrG5h" value="Fwd2" />
-    <property role="34LRSv" value="Fwd2" />
-    <ref role="1TJDcQ" to="ttlr:1D$CuWyeURE" resolve="Fwd" />
+    <property role="TrG5h" value="Forward" />
+    <property role="34LRSv" value="Forward" />
+    <ref role="1TJDcQ" to="ttlr:1D$CuWyeURE" resolve="Forward" />
     <node concept="1TJgyj" id="53Bei5dqBo8" role="1TKVEi">
       <property role="IQ2ns" value="5829691057849923080" />
       <property role="20lmBu" value="aggregation" />
       <property role="20kJfa" value="exp" />
       <property role="20lbJX" value="1" />
       <ref role="20lvS9" to="tpee:fz3vP1J" resolve="Expression" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="42rH4JTrOjy">
+    <property role="EcuMT" value="4655512878217905378" />
+    <property role="TrG5h" value="VariableReference" />
+    <ref role="1TJDcQ" to="tpee:fz3vP1J" resolve="Expression" />
+    <node concept="1TJgyj" id="42rH4JTrOjz" role="1TKVEi">
+      <property role="IQ2ns" value="4655512878217905379" />
+      <property role="20lmBu" value="reference" />
+      <property role="20kJfa" value="variable" />
+      <property role="20lbJX" value="1" />
+      <ref role="20lvS9" node="6qL48xpvaHA" resolve="Variable" />
     </node>
   </node>
 </model>

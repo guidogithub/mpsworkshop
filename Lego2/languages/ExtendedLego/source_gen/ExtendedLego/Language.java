@@ -41,7 +41,7 @@ public class Language extends LanguageRuntime {
   }
   @Override
   protected String[] getExtendedLanguageIDs() {
-    return new String[]{"Lego2"};
+    return new String[]{"jetbrains.mps.baseLanguage", "Lego2"};
   }
   @Override
   public Collection<TemplateModule> getGenerators() {

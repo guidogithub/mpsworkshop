@@ -14,11 +14,11 @@
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
-  <dependency className="ExtendedLego.behavior.Fwd1_BehaviorDescriptor" file="Fwd1_BehaviorDescriptor.java">
+  <dependency className="ExtendedLego.behavior.Forward_BehaviorDescriptor" file="Forward_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
-  <dependency className="ExtendedLego.behavior.Fwd2_BehaviorDescriptor" file="Fwd2_BehaviorDescriptor.java">
+  <dependency className="ExtendedLego.behavior.VariableReference_BehaviorDescriptor" file="VariableReference_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Deprecated" />
     <classNode dependClassName="java.lang.String" />
   </dependency>
