@@ -6,124 +6,14 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="Added position of boundary">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/Foo/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox/Foo.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/Foo/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/Foo/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/Statement_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/Foo/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/models/ExtendedLegoSolution/Foo.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen.caches/ExtendedLegoSolution/Foo/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen/ExtendedLegoSolution/Foo/trace.info" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/behavior/Fwd1_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/behavior/Fwd2_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/ExtendedRoute_Editor$BoundarySingleRoleHandler_z3qtcu_a1d0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/ExtendedRoute_Editor$CmdsListHandler_z3qtcu_a2d0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/ExtendedRoute_Editor$variablesListHandler_z3qtcu_a2a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/ExtendedRoute_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Fwd1_Editor$_Inline_6fnt2v_a1a.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Fwd1_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Fwd2_Editor$expSingleRoleHandler_kuh1ly_b0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Fwd2_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/ExtendedRoute_Editor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/Cmd_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/Fwd_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/Fwd_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/Foo$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/Foo$Robot$Orientation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/Foo$Robot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/Foo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/classes_gen/Lego2/sandbox/trace.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/models/Lego2/sandbox.mps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/generated" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/trace.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/xx/Route$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/xx/Route$Robot$Orientation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/xx/Route$Robot.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/xx/Route.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/classes_gen/ExtendedLegoSolution/xx/trace.info" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/models/ExtendedLegoSolution/xx.mps" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen.caches/ExtendedLegoSolution/xx/generated" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen/ExtendedLegoSolution/xx/trace.info" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/Fwd1_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/Forward_BehaviorDescriptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/Fwd2_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/VariableReference_BehaviorDescriptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/Fwd1_Editor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/VariableReference_Editor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/Fwd2_Editor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/Forward_Editor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen.caches/Lego2/sandbox/Foo/dependencies" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/Foo.java" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/source_gen/Lego2/sandbox/Foo/Foo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/Cmd_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/Forward_BehaviorDescriptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/Fwd_BehaviorDescriptor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/Command_BehaviorDescriptor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/Fwd_Editor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/Forward_Editor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen.caches/ExtendedLegoSolution/xx/dependencies" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen.caches/ExtendedLegoSolution/Foo/dependencies" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen/ExtendedLegoSolution/xx/Route.java" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/source_gen/ExtendedLegoSolution/Foo/Foo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/Language.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/EditorAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Variable_Editor.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/Variable_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/structure/ConceptPresentationAspectImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/structure/StructureAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/classes_gen/ExtendedLego/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/classes_gen/ExtendedLego/generator/template/main/QueriesGenerated.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/Language.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/Language.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/EditorAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/Route_Editor.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/Route_Editor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/ConceptPresentationAspectImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/StructureAspectDescriptor.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/QueriesGenerated.class" />
+    <list default="true" id="dc704652-3493-4e18-85f9-5bfd4f7ec68c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/ExtendedLego.mpl" afterPath="$PROJECT_DIR$/languages/ExtendedLego/ExtendedLego.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/classes_gen/ExtendedLego/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/classes_gen/ExtendedLego/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/classes_gen/ExtendedLego/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen.caches/ExtendedLego/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen.caches/ExtendedLego/generator/template/main/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen.caches/ExtendedLego/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen.caches/ExtendedLego/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen/ExtendedLego/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen/ExtendedLego/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen/ExtendedLego/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/source_gen/ExtendedLego/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/ExtendedLego/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/models/editor.mps" afterPath="$PROJECT_DIR$/languages/ExtendedLego/models/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/models/structure.mps" afterPath="$PROJECT_DIR$/languages/ExtendedLego/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/behavior/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/editor/dependencies" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/editor/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/editor/generated" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/editor/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/generated" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/structure/generated" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen.caches/ExtendedLego/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/Language.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/EditorAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/Variable_Editor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/Variable_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/trace.info" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/ExtendedLego/source_gen/ExtendedLego/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/Lego2.mpl" afterPath="$PROJECT_DIR$/languages/Lego2/Lego2.mpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/classes_gen/Lego2/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/classes_gen/Lego2/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen.caches/Lego2/generator/template/main/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/QueriesGenerated.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/generator/source_gen/Lego2/generator/template/main/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/Lego2/generator/template/main@generator.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/models/typesystem.mps" afterPath="$PROJECT_DIR$/languages/Lego2/models/typesystem.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" afterPath="$PROJECT_DIR$/languages/Lego2/sandbox/Lego2.sandbox.msd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/behavior/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/constraints/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/constraints/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/editor/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/structure/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/typesystem/generated" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen.caches/Lego2/typesystem/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/Language.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/Language.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/behavior/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/EditorAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/Route_Editor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/Route_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/editor/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" afterPath="$PROJECT_DIR$/languages/Lego2/source_gen/Lego2/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/ExtendedLegoSolution.msd" afterPath="$PROJECT_DIR$/solutions/ExtendedLegoSolution/ExtendedLegoSolution.msd" />
     </list>
     <ignored path="Lego2.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -1290,7 +1180,8 @@
     <MESSAGE value="FOo" />
     <MESSAGE value="Fix Route editor" />
     <MESSAGE value="Added position of boundary" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added position of boundary" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="mps://node://ExtendedLego/ExtendedLego.editor/null_Editor" />
