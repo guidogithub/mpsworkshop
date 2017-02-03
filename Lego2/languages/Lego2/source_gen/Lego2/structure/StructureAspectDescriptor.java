@@ -18,13 +18,14 @@ import jetbrains.mps.smodel.adapter.ids.MetaIdFactory;
 import jetbrains.mps.smodel.SNodePointer;
 
 public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
-  private final Map<SConceptId, Integer> myIndexMap = new HashMap<SConceptId, Integer>(7);
+  private final Map<SConceptId, Integer> myIndexMap = new HashMap<SConceptId, Integer>(8);
   /*package*/ final ConceptDescriptor myConceptBoundary = createDescriptorForBoundary();
   /*package*/ final ConceptDescriptor myConceptCommand = createDescriptorForCommand();
   /*package*/ final ConceptDescriptor myConceptForward = createDescriptorForForward();
   /*package*/ final ConceptDescriptor myConceptLeft = createDescriptorForLeft();
   /*package*/ final ConceptDescriptor myConceptRight = createDescriptorForRight();
   /*package*/ final ConceptDescriptor myConceptRoute = createDescriptorForRoute();
+  /*package*/ final ConceptDescriptor myConceptStart = createDescriptorForStart();
   /*package*/ final ConceptDescriptor myConceptStatement = createDescriptorForStatement();
 
   public StructureAspectDescriptor() {
@@ -34,12 +35,13 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     myIndexMap.put(myConceptLeft.getId(), 3);
     myIndexMap.put(myConceptRight.getId(), 4);
     myIndexMap.put(myConceptRoute.getId(), 5);
-    myIndexMap.put(myConceptStatement.getId(), 6);
+    myIndexMap.put(myConceptStart.getId(), 6);
+    myIndexMap.put(myConceptStatement.getId(), 7);
   }
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptBoundary, myConceptCommand, myConceptForward, myConceptLeft, myConceptRight, myConceptRoute, myConceptStatement);
+    return Arrays.asList(myConceptBoundary, myConceptCommand, myConceptForward, myConceptLeft, myConceptRight, myConceptRoute, myConceptStart, myConceptStatement);
   }
 
   @Override
@@ -63,6 +65,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
       case 5:
         return myConceptRoute;
       case 6:
+        return myConceptStart;
+      case 7:
         return myConceptStatement;
       default:
         throw new IllegalStateException();
@@ -96,6 +100,9 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   }
   private static ConceptDescriptor createDescriptorForRoute() {
     return new ConceptDescriptorBuilder("Lego2.structure.Route", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x1a64a1ef223bad65L)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept", "jetbrains.mps.execution.util.structure.IMainClass").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL), MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L), MetaIdFactory.conceptId(0x4caf0310491e41f5L, 0x8a9b2006b3a94898L, 0x40c1a7cb987d20d5L)).childDescriptors(new ConceptDescriptorBuilder.Link(0x409bb44bf973e76dL, "Statements", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x409bb44bf973e751L), true, true, false, new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "4655512878218209133"))).children(new String[]{"Statements"}, new boolean[]{true}).rootable().alias("Route", "").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "1901822991100783973")).create();
+  }
+  private static ConceptDescriptor createDescriptorForStart() {
+    return new ConceptDescriptorBuilder("Lego2.structure.Start", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x409bb44bf97a6031L)).super_("Lego2.structure.Statement").version(1).super_(MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x409bb44bf973e751L)).parents("Lego2.structure.Statement").parentIds(MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x409bb44bf973e751L)).propertyDescriptors(new ConceptDescriptorBuilder.Prop(0x409bb44bf97a610aL, "startx", new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "4655512878218633482")), new ConceptDescriptorBuilder.Prop(0x409bb44bf97a610eL, "starty", new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "4655512878218633486"))).properties("startx", "starty").sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "4655512878218633265")).create();
   }
   private static ConceptDescriptor createDescriptorForStatement() {
     return new ConceptDescriptorBuilder("Lego2.structure.Statement", MetaIdFactory.conceptId(0x36d35b3e5a784042L, 0x8b0ed6682dd36f87L, 0x409bb44bf973e751L)).super_("jetbrains.mps.lang.core.structure.BaseConcept").version(1).super_(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).parents("jetbrains.mps.lang.core.structure.BaseConcept").parentIds(MetaIdFactory.conceptId(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x10802efe25aL)).sourceNode(new SNodePointer("r:0bab23f2-7522-4039-b58b-542c2e2539f8(Lego2.structure)", "4655512878218209105")).create();

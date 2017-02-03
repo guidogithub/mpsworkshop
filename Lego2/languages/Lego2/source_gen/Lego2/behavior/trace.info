@@ -22,6 +22,9 @@
     <file name="Route_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Route_BehaviorDescriptor" />
     </file>
+    <file name="Start_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Lego2.behavior.Start_BehaviorDescriptor" />
+    </file>
     <file name="Statement_BehaviorDescriptor.java">
       <unit at="11,0,17,0" name="Lego2.behavior.Statement_BehaviorDescriptor" />
     </file>

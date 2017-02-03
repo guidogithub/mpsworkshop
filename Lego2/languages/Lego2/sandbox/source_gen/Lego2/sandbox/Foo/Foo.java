@@ -12,6 +12,10 @@ public class Foo extends JFrame {
   public static class Robot {
     private int x;
     private int y;
+    private int boundary_xpos;
+    private int boundary_ypos;
+    private int boundary_length;
+    private int boundary_width;
 
     public enum Orientation {
       NORTH(),
@@ -47,6 +51,17 @@ public class Foo extends JFrame {
         case EAST:
           x1 += units;
           break;
+      }
+
+      if ((x1 < this.boundary_xpos) || (x1 > this.boundary_length)) {
+        String s = "Out of Bounds";
+        throw new RuntimeException(s);
+      }
+
+      if ((y1 < this.boundary_ypos) || y1 > this.boundary_width) {
+        String s = "Out of Bounds";
+        throw new RuntimeException(s);
+
       }
 
       graphics.setColor(this.color);
@@ -89,6 +104,17 @@ public class Foo extends JFrame {
       }
     }
 
+    public void Start(int xpos, int ypos) {
+      this.x = xpos;
+      this.y = ypos;
+    }
+
+    public void Set_Boundary(int xpos, int ypos, int length, int width) {
+      this.boundary_xpos = xpos;
+      this.boundary_ypos = ypos;
+      this.boundary_length = length;
+      this.boundary_width = width;
+    }
   }
 
 
@@ -97,10 +123,14 @@ public class Foo extends JFrame {
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);
       Foo.Robot robot = new Foo.Robot(0, 0, Foo.Robot.Orientation.EAST, Color.BLACK);
+      robot.Set_Boundary(0, 0, 500, 500);
       graphics.drawRect(0, 0, 500, 500);
+      robot.Start(10, 10);
       robot.Fwd(graphics, 100);
       robot.Right();
       robot.Fwd(graphics, 100);
+      robot.Right();
+      robot.Fwd(graphics, 1000);
     }
   };
 

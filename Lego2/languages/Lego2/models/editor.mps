@@ -154,5 +154,32 @@
       <node concept="2iRfu4" id="5iIcuKULkCe" role="2iSdaV" />
     </node>
   </node>
+  <node concept="24kQdi" id="42rH4JTuA4l">
+    <ref role="1XX52x" to="ttlr:42rH4JTuA0L" resolve="Start" />
+    <node concept="3EZMnI" id="42rH4JTuA5C" role="2wV5jI">
+      <node concept="3F0ifn" id="42rH4JTuA5P" role="3EZMnx">
+        <property role="3F0ifm" value="Start" />
+      </node>
+      <node concept="3F0ifn" id="42rH4JTuA61" role="3EZMnx">
+        <property role="3F0ifm" value="posx" />
+      </node>
+      <node concept="3F0ifn" id="42rH4JTuA6j" role="3EZMnx">
+        <property role="3F0ifm" value=":" />
+      </node>
+      <node concept="3F0A7n" id="42rH4JTuA6F" role="3EZMnx">
+        <ref role="1NtTu8" to="ttlr:42rH4JTuA4a" resolve="startx" />
+      </node>
+      <node concept="3F0ifn" id="42rH4JTuA79" role="3EZMnx">
+        <property role="3F0ifm" value="posy" />
+      </node>
+      <node concept="3F0ifn" id="42rH4JTuA7H" role="3EZMnx">
+        <property role="3F0ifm" value=":" />
+      </node>
+      <node concept="3F0A7n" id="42rH4JTuA8n" role="3EZMnx">
+        <ref role="1NtTu8" to="ttlr:42rH4JTuA4e" resolve="starty" />
+      </node>
+      <node concept="2iRfu4" id="42rH4JTuA5F" role="2iSdaV" />
+    </node>
+  </node>
 </model>
 

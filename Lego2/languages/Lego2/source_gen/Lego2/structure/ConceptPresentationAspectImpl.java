@@ -15,6 +15,7 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   private final ConceptPresentation props_Left = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_Right = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_Route = new ConceptPresentationBuilder().create();
+  private final ConceptPresentation props_Start = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_Statement = new ConceptPresentationBuilder().create();
 
   @Override
@@ -35,6 +36,8 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
       case 5:
         return props_Route;
       case 6:
+        return props_Start;
+      case 7:
         return props_Statement;
     }
     throw new IllegalStateException("Unknown concept " + c);

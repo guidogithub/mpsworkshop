@@ -15,6 +15,10 @@
         <child id="4655512878218209133" name="Statements" index="2TU5cA" />
       </concept>
       <concept id="1901822991100784175" name="Lego2.structure.Right" flags="ng" index="SnKZ0" />
+      <concept id="4655512878218633265" name="Lego2.structure.Start" flags="ng" index="2TSthU">
+        <property id="4655512878218633482" name="startx" index="2TStl1" />
+        <property id="4655512878218633486" name="starty" index="2TStl5" />
+      </concept>
       <concept id="6101869435801651625" name="Lego2.structure.Boundary" flags="ng" index="1IqRx5">
         <property id="7399713840549214330" name="posy" index="ZMMzM" />
         <property id="7399713840549214326" name="posx" index="ZMMzY" />
@@ -36,12 +40,20 @@
       <property role="1IqRwD" value="500" />
       <property role="1IqRwF" value="500" />
     </node>
+    <node concept="2TSthU" id="42rH4JTvdq_" role="2TU5cA">
+      <property role="2TStl1" value="10" />
+      <property role="2TStl5" value="10" />
+    </node>
     <node concept="SnKK5" id="42rH4JTt_MT" role="2TU5cA">
       <property role="SnKZA" value="100" />
     </node>
     <node concept="SnKZ0" id="42rH4JTt_N1" role="2TU5cA" />
     <node concept="SnKK5" id="42rH4JTt_Nl" role="2TU5cA">
       <property role="SnKZA" value="100" />
+    </node>
+    <node concept="SnKZ0" id="42rH4JTx7wa" role="2TU5cA" />
+    <node concept="SnKK5" id="42rH4JTx7wO" role="2TU5cA">
+      <property role="SnKZA" value="1000" />
     </node>
   </node>
 </model>

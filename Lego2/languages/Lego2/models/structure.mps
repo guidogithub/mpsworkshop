@@ -122,5 +122,20 @@
     <property role="TrG5h" value="Statement" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
   </node>
+  <node concept="1TIwiD" id="42rH4JTuA0L">
+    <property role="EcuMT" value="4655512878218633265" />
+    <property role="TrG5h" value="Start" />
+    <ref role="1TJDcQ" node="42rH4JTsYth" resolve="Statement" />
+    <node concept="1TJgyi" id="42rH4JTuA4a" role="1TKVEl">
+      <property role="IQ2nx" value="4655512878218633482" />
+      <property role="TrG5h" value="startx" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="42rH4JTuA4e" role="1TKVEl">
+      <property role="IQ2nx" value="4655512878218633486" />
+      <property role="TrG5h" value="starty" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+  </node>
 </model>
 
